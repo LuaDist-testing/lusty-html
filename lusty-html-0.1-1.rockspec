@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "lusty-html"
 version = "0.1-1"
--- LuaDist source
 source = {
-  tag = "0.1-1",
-  url = "git://github.com/LuaDist-testing/lusty-html.git"
+  url = "https://github.com/Olivine-Labs/lusty-html/archive/v0.1.tar.gz",
+  dir = "lusty-html-0.1"
 }
--- Original source
--- source = {
---   url = "https://github.com/Olivine-Labs/lusty-html/archive/v0.1.tar.gz",
---   dir = "lusty-html-0.1"
--- }
 description = {
   summary = "html input and output for lusty.",
   detailed = [[
